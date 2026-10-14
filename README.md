@@ -1,6 +1,6 @@
 # Competencia monopolística: demanda residual, entrada y equilibrio de largo plazo
 
-Simulador interactivo, en un único archivo HTML autocontenido, de una firma representativa en competencia monopolística. Cada nueva firma que ingresa a la industria sustrae demanda y desplaza hacia el origen la demanda residual de las existentes; el simulador resuelve el equilibrio de corto plazo (IMg = CMg sobre la demanda residual), el número de firmas compatible con la libre entrada, la condición de tangencia de Chamberlin (p = CMe) y el exceso de capacidad, con funciones de costo derivadas de seis funciones de producción. Material didáctico para Microeconomía Intermedia (Bloque 3: Estructuras de mercado, Competencia monopolística).
+Simulador interactivo, en un único archivo HTML autocontenido, de una firma representativa en competencia monopolística. Cada nueva firma que ingresa a la industria sustrae demanda y desplaza hacia el origen la demanda residual de las existentes; el simulador resuelve el equilibrio de corto plazo (IMg = CMg sobre la demanda residual), el número de firmas compatible con la libre entrada, la condición de tangencia de Chamberlin (p = CMe) y el exceso de capacidad, con funciones de costo derivadas de seis funciones de producción.
 
 **[▶ Abrir el simulador](https://fcontiggiani.github.io/competencia-monopolistica/competencia_monopolistica.html)**
 
